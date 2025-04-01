@@ -1,9 +1,7 @@
 # MataChat
 
 An AI-powered search engine with a generative UI.
-
-![capture](<img width="1728" alt="image" src="https://github.com/user-attachments/assets/eaa0e79c-7db3-49de-bd1d-40ab0aac85cc" />
-)
+Demo: ducmata.com
 
 ## 🛠 Features
 
